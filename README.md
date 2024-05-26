@@ -1,8 +1,4 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+👋+I'm Rahul Das;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+<h1 align="center">Hi 👋, I'm Rahul Das</h1>
 
 <h3 align="center">A passionate full stack developer from India</h3>
 
