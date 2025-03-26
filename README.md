@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Das</h1>
 
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A professional full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulcodepython&label=Profile%20views&color=0e75b6&style=flat" alt="rahulcodepython" /> </p>
 
@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/rd21102004" target="blank"><img src="https://img.shields.io/twitter/follow/rd21102004?logo=twitter&style=for-the-badge" alt="rd21102004" /></a> </p>
 
-- 🔭 I’m currently working on [Z-Tube Social Media App](https://github.com/rahulcodepython/Z-Tube-Backend.git)
+- 🔭 I’m currently working on [CourseHunt - Course Selling App]
 
-- 🌱 I’m currently learning **Next JS, Docker, Django,**
+- 🌱 I’m currently learning **Next JS, Docker, Django**
 
 - 👨‍💻 All of my projects are available at [rahulcodepython.in](rahulcodepython.in)
 
 - 📫 How to reach me **rahulcodepython@gmail.com**
 
-- 📄 Know about my experiences [https://firebasestorage.googleapis.com/v0/b/z-tube-53cf1.appspot.com/o/Portfolio%2FRahul%20das.pdf?alt=media&token=63cd1d72-b310-4853-a64b-1094c50182a8](https://firebasestorage.googleapis.com/v0/b/z-tube-53cf1.appspot.com/o/Portfolio%2FRahul%20das.pdf?alt=media&token=63cd1d72-b310-4853-a64b-1094c50182a8)
+- 📄 Know about my experiences [Resume](https://firebasestorage.googleapis.com/v0/b/z-tube-53cf1.appspot.com/o/Portfolio%2FRahul%20das.pdf?alt=media&token=63cd1d72-b310-4853-a64b-1094c50182a8)
 
 - ⚡ Fun fact **I love to play chess**
 
