@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulcodepython" alt="rahulcodepython" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rd21102004" target="blank"><img src="https://img.shields.io/twitter/follow/rd21102004?logo=twitter&style=for-the-badge" alt="rd21102004" /></a> </p>
+<p align="left"> <a href="https://x.com/rahulcodepython" target="blank"><img src="https://img.shields.io/twitter/follow/rahulcodepython?logo=twitter&style=for-the-badge" alt="rahulcodepython" /></a> </p>
 
 - 🔭 I’m currently working on [CourseHunt - Course Selling App]
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rd21102004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rd21102004" height="30" width="40" /></a>
+<a href="https://x.com/rahulcodepython" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulcodepython" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahulcodepython" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulcodepython" height="30" width="40" /></a>
 <a href="https://fb.com/rahulcodepython" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahulcodepython" height="30" width="40" /></a>
 <a href="https://instagram.com/rahulcodepython" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahulcodepython" height="30" width="40" /></a>
